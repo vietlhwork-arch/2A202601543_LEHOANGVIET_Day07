@@ -1,3 +1,7 @@
-doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
-k3-course-registration,data/k3_university/course-registration.md,Đăng ký học phần,https://example.edu/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,example-template-replace-me
-k3-library-services,data/k3_university/library-services.md,Dịch vụ thư viện,https://example.edu/thu-vien/dich-vu,2026-08-02,2026.1,example-template-replace-me
+file_name,doc_id,title,source_url,retrieved_at,document_version,audience,department
+course-registration.md,course-registration,Hướng dẫn Đăng ký học phần ĐHQGHN,http://daotao.vnu.edu.vn,2026-08-03,2026.1,student,academic-affairs
+library-services.md,library-services,Quy định Dịch vụ Thư viện LIC ĐHQGHN,https://lic.vnu.edu.vn,2026-08-03,2026.1,all,library
+scholarship-rules.md,scholarship-rules,Quy định Xét học bổng Khuyến khích học tập HUST,https://hust.edu.vn,2026-08-03,2026.1,student,student-affairs
+tuition-policy.md,tuition-policy,Quy định Nộp Học phí ĐHQGHN,http://daotao.vnu.edu.vn,2026-08-03,2026.1,student,finance
+dormitory-rules.md,dormitory-rules,Quy định Đăng ký Nội trú Ký túc xá VNU,http://dangkynoitru.css.vnu.edu.vn,2026-08-03,2026.1,student,dormitory-management
+faculty-research-grant.md,faculty-research-grant,Quy chế NCKH Cán bộ Giảng viên VNU,https://vnu.edu.vn,2026-08-03,2026.1,faculty,research-affairs

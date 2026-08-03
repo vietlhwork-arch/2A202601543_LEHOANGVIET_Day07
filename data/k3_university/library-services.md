@@ -1,18 +1,23 @@
 ---
-doc_id: k3-library-services
-title: Dịch vụ thư viện
-audience: all               # student | faculty | staff | all
+doc_id: library-services
+title: Quy định Dịch vụ Thư viện LIC ĐHQGHN
+audience: all
 department: library
 language: vi
-source_url: https://example.edu/thu-vien/dich-vu
-retrieved_at: 2026-08-02
+source_url: https://lic.vnu.edu.vn
+retrieved_at: 2026-08-03
 document_version: "2026.1"
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K3 — thay `source_url`/`retrieved_at`/`document_version` bằng nguồn công khai thật trước khi dùng làm benchmark.
+# Quy định Dịch vụ Thư viện LIC ĐHQGHN
 
-# Dịch vụ thư viện (dữ liệu khởi động)
+## 1. Thời gian phục vụ và giờ mở cửa
+Thư viện LIC mở cửa từ 7:30 đến 21:00 từ Thứ Hai đến Thứ Sáu hàng tuần.
+Tất cả sinh viên, học viên và cán bộ nhân viên nhà trường xuất trình thẻ hợp lệ khi vào sử dụng dịch vụ thư viện.
 
-Thư viện cung cấp mượn tài liệu và không gian học tập cho sinh viên, giảng viên và nhân viên. Người dùng cần mang thẻ định danh hợp lệ khi sử dụng dịch vụ mượn.
+## 2. Quy định mượn trả và gia hạn trực tuyến
+- Bạn đọc được mượn tối đa 5 cuốn sách giáo trình/tham khảo trong thời hạn 14 ngày.
+- Quy định gia hạn mượn sách trực tuyến: Bạn đọc được gia hạn mượn tối đa 2 lần trực tuyến tại hệ thống cổng thông tin lic.vnu.edu.vn nếu tài liệu chưa có người khác đặt chỗ.
 
-Nhóm cần bổ sung quy định thời hạn mượn, gia hạn và xử lý quá hạn từ nguồn chính thức trước khi dùng làm benchmark.
+## 3. Xử lý vi phạm và đền bù
+Trường hợp trả sách quá hạn, bạn đọc bị phạt theo quy định của Trung tâm Thư viện. Làm mất hoặc hư hỏng tài liệu phải bồi thường theo đúng giá trị thị trường hiện hành.
