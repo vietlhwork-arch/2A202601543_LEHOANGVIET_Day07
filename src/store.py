@@ -44,7 +44,10 @@ class EmbeddingStore:
     def _make_record(self, doc: Document) -> dict[str, Any]:
         embedding = self._embedding_fn(doc.content)
         doc_id = doc.metadata.get("doc_id", doc.id)
-        metadata = dict(doc.metadata)
+        metadata = {
+            k: (v if isinstance(v, (str, int, float, bool, list, type(None))) else str(v))
+            for k, v in doc.metadata.items()
+        }
         metadata["doc_id"] = doc_id
         return {
             "id": f"{doc.id}_{self._next_index}",
